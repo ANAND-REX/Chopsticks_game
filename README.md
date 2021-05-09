@@ -1,2 +1,2 @@
 # Chopsticks_game
-Chopsticks games using Computer Vision
+Chopsticks game using Computer Vision
